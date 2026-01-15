@@ -1,3 +1,9 @@
+# Streamlit UI dependencies
 streamlit
 amzqr
 Pillow
+
+# API dependencies
+fastapi
+uvicorn[standard]
+python-multipart
